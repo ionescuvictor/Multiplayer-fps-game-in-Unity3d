@@ -1,0 +1,18 @@
+Initialize engine version: 4.0.1f2
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.4276]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     912 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\l\Desktop\New folder (4)\current\build\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\l\Desktop\New folder (4)\current\build\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\l\Desktop\New folder (4)\current\build\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\l\Desktop\New folder (4)\current\build\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.

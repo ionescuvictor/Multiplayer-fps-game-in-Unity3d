@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuManagerC.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ControllerScript.cs" Line="16" Column="4" />
+      <File FileName="Assets\Scripts\MovementUpdateScript.cs" Line="37" Column="4" />
+      <File FileName="Assets\Scripts\MenuManagerC.cs" Line="108" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

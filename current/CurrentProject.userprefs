@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Destroyed_city_FREE\Destroyed_city_FREE_Info.txt">
+    <Files>
+      <File FileName="Assets\Scripts\DamageScript.cs" Line="8" Column="39" />
+      <File FileName="Assets\Scripts\PlayerDatabase.cs" Line="128" Column="6" />
+      <File FileName="Assets\Scripts\PlayerPrefabScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissleScript.cs" Line="65" Column="82" />
+      <File FileName="Assets\Scripts\PlayerDatabaseClass.cs" Line="36" Column="1" />
+      <File FileName="Assets\Scripts\MovementUpdateScript.cs" Line="22" Column="1" />
+      <File FileName="Assets\Destroyed_city_FREE\Destroyed_city_FREE_Info.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

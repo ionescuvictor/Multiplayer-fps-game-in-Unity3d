@@ -1,0 +1,40 @@
+if im in a tank and i press e i recreate a tank and make my capsule with hp from menumanager
+
+if press e...
+health = 3
+network.instantiate(tankHp3n....
+
+this.gameobject.destroy
+
+if health = 2
+network.instantiate(tankhp2n ...
+
+this.gameobject.destroy
+
+if health = 1
+
+network.sintantate(tankhp1n
+
+this.gameobject.destroy
+=====================================
+
+if im a player and i press e and i enter a tank
+
+this.gameobject.destroy
+
+if tag = tank || this.gameobject.tag == red
+
+if name = tankhp3n
+network.instnate(tankhp3r...
+
+........
+
+
+
+
+
+tank hpn3 2 1
+
+tank hpr3 2 1
+
+tank hpb3 2 1
